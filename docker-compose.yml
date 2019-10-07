@@ -1,0 +1,11 @@
+version: '3'
+services:
+  dt:
+    build: .
+    working_dir: /app/
+    stdin_open: true
+    tty: true
+    ports:
+      - '9090:80'
+    volumes:
+      - '/home/yaron/temp/dt/data:/data/'
