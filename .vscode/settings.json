@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/yaron/anaconda3/envs/yaron36/bin/python",
+    "git.ignoreLimitWarning": true,
+    "python.envFile": "${workspaceFolder}/.env"
+}

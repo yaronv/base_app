@@ -7,7 +7,7 @@ from starlette.templating import Jinja2Templates
 import datetime
 
 router = APIRouter()
-templates = Jinja2Templates(directory="ui/templates")
+templates = Jinja2Templates(directory="app/ui/templates")
 start_time = datetime.datetime.now()
 
 

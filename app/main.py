@@ -5,7 +5,7 @@ from starlette.staticfiles import StaticFiles
 
 app = FastAPI()
 
-app.mount("/static", StaticFiles(directory="ui/static"), name="static")
+app.mount("/static", StaticFiles(directory="app/ui/static"), name="static")
 app.include_router(routes.router)
 
 if __name__ == '__main__':
