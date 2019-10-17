@@ -1,6 +1,6 @@
 {
-    "python.pythonPath": "/home/yaron/anaconda3/envs/yaron36/bin/python",
+    "python.pythonPath": "/home/ds/python-envs/env3.6/bin/python",
     "git.ignoreLimitWarning": true,
     "python.envFile": "${workspaceFolder}/.env",
-    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=629d3d7b49a5a8dc425a89c8df4488cec8c0c2d18e899ee9"
+    "python.dataScience.jupyterServerURI": "local"
 }
