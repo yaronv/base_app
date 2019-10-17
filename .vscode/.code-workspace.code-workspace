@@ -3,8 +3,5 @@
 		{
 			"path": "/home/ds/projects/base_app"
 		}
-	],
-	"settings": {
-		"git.ignoreLimitWarning": true
-	}
+	]
 }
