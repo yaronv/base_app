@@ -5,5 +5,5 @@ scikit-learn==0.20.2
 dill==0.3.1.1
 fastapi==0.41.0
 email-validator==1.0.4
-jinja2==2.10.3
+jinja2==2.11.3
 aiofiles==0.4.0
